@@ -1,2 +1,2 @@
 # Gallery
-Photo/Gallery
+Photo/Gallery (MDN)
